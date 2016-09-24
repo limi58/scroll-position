@@ -1,0 +1,25 @@
+{
+  "name": "simple-scroll-position",
+  "version": "1.0.0",
+  "description": "simple scroll position lib for js",
+  "main": "./dist/scroll.min.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limi58/scroll-position.git"
+  },
+  "keywords": [
+    "scroll"
+  ],
+  "author": "limi58",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limi58/scroll-position/issues"
+  },
+  "homepage": "https://github.com/limi58/scroll-position#readme"
+}
